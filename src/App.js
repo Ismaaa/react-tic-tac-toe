@@ -1,8 +1,11 @@
 // libs
 import React from 'react';
 
+// components
+import Game from './components/Game';
+
 const App = () => {
-  return <div>Hello world</div>;
+  return <Game />;
 };
 
 export default App;
