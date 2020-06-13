@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const Square = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div>Square</div>;
+};
 
-export default Square
+export default Square;
