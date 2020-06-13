@@ -42,7 +42,8 @@
     "eslint-plugin-react": "^7.20.0",
     "import-sort-style-module": "^6.0.0",
     "prettier": "^2.0.5",
-    "prettier-plugin-import-sort": "^0.0.4"
+    "prettier-plugin-import-sort": "^0.0.4",
+    "prop-types": "^15.7.2"
   },
   "importSort": {
     ".js, .jsx, .ts, .tsx": {
